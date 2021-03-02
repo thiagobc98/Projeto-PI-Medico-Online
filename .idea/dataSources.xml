@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="@localhost" uuid="ad523a21-f387-4fcc-961a-5b9a15dad7f4">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/projetomo?serverTimezone=UTC</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="@pi.cj8iq16vacqe.us-east-1.rds.amazonaws.com" uuid="7800d289-7878-4fa4-ad5c-7596bd1f0cdf">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://pi.cj8iq16vacqe.us-east-1.rds.amazonaws.com:3306</jdbc-url>
+    </data-source>
+  </component>
+</project>
